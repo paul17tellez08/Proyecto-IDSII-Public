@@ -1,0 +1,60 @@
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\obj\Debug\SisVentas.Form1.resources
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\obj\Debug\SisVentas.Form1.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.Form1.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.Form1.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache

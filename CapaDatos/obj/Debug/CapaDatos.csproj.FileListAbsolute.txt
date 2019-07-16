@@ -1,0 +1,21 @@
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config

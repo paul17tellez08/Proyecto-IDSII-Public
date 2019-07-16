@@ -1,0 +1,148 @@
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+c:\users\carlos gonzalez\documents\visual studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVista.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedor_Ingreso.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVista.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedor_Ingreso.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Venta.resources
+C:\Users\Carlos Gonzalez\Desktop\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Venta.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulo.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultas_Stock_Articulos.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCategoria.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultas_Ventas_Fechas.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultas_Compras_Fechas.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSplash.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultas_Compras_Fechas.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultas_Stock_Articulos.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultas_Ventas_Fechas.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSplash.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVista.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Venta.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedor_Ingreso.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulo.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategoria.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCliente.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCompras.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportePresentacion.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProveedores.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajador.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteVentas.resources
+C:\Users\Carlos Gonzalez\Documents\Visual Studio 2013\Projects\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteStock.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultas_Compras_Fechas.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultas_Stock_Articulos.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultas_Ventas_Fechas.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSplash.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVista.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Venta.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedor_Ingreso.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulo.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategoria.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCliente.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCompras.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportePresentacion.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProveedores.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteStock.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajador.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteVentas.resources
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\RdlCompile.cache
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\RdlCompile.compiled
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
