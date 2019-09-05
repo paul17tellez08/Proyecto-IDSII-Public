@@ -582,7 +582,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(183, 20);
+            this.label9.Location = new System.Drawing.Point(18, 49);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(73, 13);
             this.label9.TabIndex = 10;
@@ -590,18 +590,16 @@
             // 
             // dtfecha2
             // 
-            this.dtfecha2.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtfecha2.Location = new System.Drawing.Point(172, 37);
+            this.dtfecha2.Location = new System.Drawing.Point(109, 42);
             this.dtfecha2.Name = "dtfecha2";
-            this.dtfecha2.Size = new System.Drawing.Size(88, 20);
+            this.dtfecha2.Size = new System.Drawing.Size(228, 20);
             this.dtfecha2.TabIndex = 9;
             // 
             // dtfecha1
             // 
-            this.dtfecha1.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtfecha1.Location = new System.Drawing.Point(17, 37);
+            this.dtfecha1.Location = new System.Drawing.Point(109, 12);
             this.dtfecha1.Name = "dtfecha1";
-            this.dtfecha1.Size = new System.Drawing.Size(88, 20);
+            this.dtfecha1.Size = new System.Drawing.Size(229, 20);
             this.dtfecha1.TabIndex = 8;
             // 
             // dataListado
@@ -690,7 +688,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(14, 20);
+            this.label2.Location = new System.Drawing.Point(14, 14);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(77, 13);
             this.label2.TabIndex = 0;

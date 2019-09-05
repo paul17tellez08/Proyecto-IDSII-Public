@@ -17,6 +17,9 @@ namespace CapaPresentacion
     {
         private bool IsNuevo = false;
         private bool IsEditar = false;
+
+        List<NCliente> Client = new List<NCliente>();
+
         public FrmCliente()
         {
             InitializeComponent();
@@ -37,6 +40,19 @@ namespace CapaPresentacion
         {
 
             MessageBox.Show(mensaje, "Sistema de venta", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+       
+        public void NombreClientes(List<NCliente> Clientes, string NombreFull)
+        {
+            List<NCliente> ListaNombres = new List<NCliente>();
+            ListaNombres =  NCliente.Mostrar();
+             Client?.ForEach(d =>
+            {
+                if (d.personName.ToUpper().Contains(text) || d.identifier.ToUpper().Contains(text) || d.loanId == loanId)
+                {
+                    listSearch.Add(d);
+                }
+            });
         }
 
         //limpiar todos los controles del formulario
@@ -63,10 +79,7 @@ namespace CapaPresentacion
             this.txtTelefono.ReadOnly = !valor;
             this.txtCorreo.ReadOnly = !valor;
             this.txtidcliente.ReadOnly = !valor;
-        }
-
-        //Habilitar los botones
-
+        }        //Habilitar los botones
         private void Botones()
         {
             if (this.IsNuevo || this.IsEditar) // Alt + 124
@@ -76,7 +89,6 @@ namespace CapaPresentacion
                 this.btnGuardar.Enabled = true;
                 this.btnEditar.Enabled = false;
                 this.btnCancelar.Enabled = true;
-
             }
             else
             {
@@ -105,7 +117,6 @@ namespace CapaPresentacion
             this.dataListado.DataSource = NCliente.Mostrar();
             this.OcultarColumnas();
             lblTotal.Text = "Total de Registro: " + Convert.ToString(dataListado.Rows.Count);
-
         }
 
         //Metodo BuscarApellidos
@@ -115,21 +126,15 @@ namespace CapaPresentacion
             this.dataListado.DataSource = NCliente.BuscarApellidos(this.txtBuscar.Text);
             this.OcultarColumnas();
             lblTotal.Text = "Total de Registro: " + Convert.ToString(dataListado.Rows.Count);
-
         }
 
         //Metodo buscarnumn_Documento
-
         private void BuscarNum_Documento()
         {
             this.dataListado.DataSource = NCliente.BuscarNum_Documento(this.txtBuscar.Text);
             this.OcultarColumnas();
             lblTotal.Text = "Total de Registro: " + Convert.ToString(dataListado.Rows.Count);
-
         }
-
-
-
         private void FrmCliente_Load(object sender, EventArgs e)
         {
             this.Top = 0;
@@ -139,6 +144,7 @@ namespace CapaPresentacion
             this.Habilitar(false);
             this.Botones();
         }
+         
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {

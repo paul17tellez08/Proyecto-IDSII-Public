@@ -58,3 +58,6 @@ F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\Respaldo
 F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.Form1.resources
 F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
 F:\Documentos\Programacion\SQL C#\RespaldoSistemaBDI\RespaldoSistemaBDI\RespaldoSistemaBDI\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\vtellez\Desktop\Proyecto Software II\Proyecto-IDSII-Public\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\vtellez\Desktop\Proyecto Software II\Proyecto-IDSII-Public\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\vtellez\Desktop\Proyecto Software II\Proyecto-IDSII-Public\SisVentas\obj\Debug\SisVentas.pdb

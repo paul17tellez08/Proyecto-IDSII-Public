@@ -54,8 +54,6 @@ namespace CapaPresentacion
             this.txtidarticulo.Visible = false;
             this.txtproveedor.ReadOnly = true;
             this.txtarticulo.ReadOnly = true;
-
-
         }
 
         //Mostrar Mensaje de confirmacion
